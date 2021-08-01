@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ./wx/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "log4js": "^6.3.0",
+    "ws": "^8.0.0",
+    "wx": "^0.0.36"
+  },
+  "devDependencies": {
+    "ws": "^8.0.0"
+  }
+}
